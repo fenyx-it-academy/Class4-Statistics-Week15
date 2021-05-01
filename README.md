@@ -4,8 +4,8 @@
 # pip install seaborn
 # seaborn kutuphanesini ustteki kod ile yukluyoruz
 import seaborn as sns
-tips = sns.load_dataset('titanic')
-df = tips.copy()
+titanic= sns.load_dataset('titanic')
+df = titanic.copy()
 print(df.head())
 #kodlar araciligi ile titanic datasini yukluyoruz
 ```
