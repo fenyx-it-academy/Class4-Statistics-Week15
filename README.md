@@ -21,4 +21,4 @@ print(df.head())
 H0 hipotezi Titanik kazasında insanlarin sosyo ekonomik siniflari hayatta kalma oranlarına herhangi bir etkisi yoktur
 H1 hipotezi Titanik kazasında insanlarin sosyo ekonomik siniflari hayatta kalma oranlarına herhangi bir etkisi vardır.
 ```
-###### Hipotez test asamalarinin tamamini yukarda önerilen hipotez icin uygulayınız ve sonucu yorumlayiniz.
+Hipotez test asamalarinin tamamini yukarda önerilen hipotez icin uygulayınız ve sonucu yorumlayiniz.
