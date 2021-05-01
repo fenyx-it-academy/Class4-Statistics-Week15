@@ -1,12 +1,14 @@
 # Class4-Statistics-Week15
 ## Seaborn kütüphanesi içerisinde bulunan tittanic datasını kullanarak
-` # pip install seaborn
-` # seaborn kutuphanesini ustteki kod ile yukluyoruz
-` import seaborn as sns
-` tips = sns.load_dataset('titanic')
-` df = tips.copy()
-` print(df.head())
-` #kodlar araciligi ile titanic datasini yukluyoruz`
+```
+# pip install seaborn
+# seaborn kutuphanesini ustteki kod ile yukluyoruz
+import seaborn as sns
+tips = sns.load_dataset('titanic')
+df = tips.copy()
+print(df.head())
+#kodlar araciligi ile titanic datasini yukluyoruz
+```
 
 
 ## Titanic datasında bulunan,
